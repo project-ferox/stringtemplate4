@@ -9,3 +9,6 @@ Export-Package: org.stringtemplate.v4,
  org.stringtemplate.v4.gui,
  org.stringtemplate.v4.misc
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: org.antlr.runtime,
+ org.antlr.runtime.misc,
+ org.antlr.runtime.tree

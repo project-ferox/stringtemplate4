@@ -123,12 +123,12 @@ There are currently about 600 StringTemplate source downloads a month.
             <scope>test</scope>
         </dependency>
 
-        <dependency>
+        <!--  <dependency>
             <groupId>org.antlr</groupId>
             <artifactId>antlr-runtime</artifactId>
             <version>3.5</version>
             <scope>compile</scope>
-        </dependency>
+        </dependency> -->
             
     </dependencies>
 
