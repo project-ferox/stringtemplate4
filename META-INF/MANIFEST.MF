@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ST4
+Bundle-SymbolicName: ST4
+Bundle-Version: 1.0.0.qualifier
+Export-Package: org.stringtemplate.v4,
+ org.stringtemplate.v4.compiler,
+ org.stringtemplate.v4.debug,
+ org.stringtemplate.v4.gui,
+ org.stringtemplate.v4.misc
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6

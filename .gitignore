@@ -16,7 +16,3 @@ nbactions*.xml
 *.iws
 .idea/
 
-# Eclipse project files
-.project
-.classpath
-.settings/
